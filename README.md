@@ -1,2 +1,4 @@
-# TestRepo
-First attempt at making a repo in SEI
+Welcome to my Test Repo! 
+
+
+Made by: Kyle Weiher
